@@ -32,7 +32,7 @@ Then, run the next code using
  
 `$ python full_connected_feed.py`
  
-to train a single fully connected layer.
+to train a single fully connected layer, the code is a modified version of tensorflow examples.
  
  ### Evaluate
  
