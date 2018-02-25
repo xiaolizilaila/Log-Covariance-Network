@@ -14,7 +14,7 @@ Notice: This code is still under improvement.
 
 Firstly, clone this repository using
 
-'$ git clone https://github.com/xiaolizilaila/Log-Covariance-Network.git'
+`$ git clone https://github.com/xiaolizilaila/Log-Covariance-Network.git`
 
 ### Download the dataset
 
@@ -24,13 +24,13 @@ Here I tested on MSR-Aciton-3D dataset, and it can be found in http://research.m
 
 Run the example code using
 
-'$ python LogCOV.py'
+`$ python LogCOV.py`
  
 to get the covariance representation of skeletal data.
  
 Then, run the next code using
  
-'$ python full_connected_feed.py'
+`$ python full_connected_feed.py`
  
 to train a single fully connected layer.
  
