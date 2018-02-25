@@ -14,7 +14,7 @@ Notice: This code is still under improvement.
 
 Firstly, clone this repository using
 
-'$ git clone '
+'$ git clone https://github.com/xiaolizilaila/Log-Covariance-Network.git'
 
 ### Download the dataset
 
@@ -26,13 +26,13 @@ Run the example code using
 
 '$ python LogCOV.py'
  
- to get the covariance representation of skeletal data.
+to get the covariance representation of skeletal data.
  
- Then, run the next code using
+Then, run the next code using
  
- '$ python full_connected_feed.py'
+'$ python full_connected_feed.py'
  
- to train a single fully connected layer.
+to train a single fully connected layer.
  
  ### Evaluate
  
